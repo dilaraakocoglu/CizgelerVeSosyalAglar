@@ -1,0 +1,22 @@
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\bin\Debug\CizgeAlgoritmalarıVeSosyalAglar.exe.config
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\bin\Debug\CizgeAlgoritmalarıVeSosyalAglar.exe
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\bin\Debug\CizgeAlgoritmalarıVeSosyalAglar.pdb
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.csprojResolveAssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.Form1.resources
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.Properties.Resources.resources
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.csproj.GenerateResource.cache
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.exe
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.pdb
+C:\Users\dilar\OneDrive\Masaüstü\C# Çalışmalarım\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.Form2.resources
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\bin\Debug\CizgeAlgoritmalarıVeSosyalAglar.exe.config
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\bin\Debug\CizgeAlgoritmalarıVeSosyalAglar.exe
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\bin\Debug\CizgeAlgoritmalarıVeSosyalAglar.pdb
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.csprojAssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.Form1.resources
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.Form2.resources
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.Properties.Resources.resources
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.csproj.GenerateResource.cache
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.exe
+C:\Users\dilar\OneDrive\Masaüstü\3.Sınıf 2.Dönem\VERİ YAPILARI PROJE2\CizgeAlgoritmalarıVeSosyalAglar\CizgeAlgoritmalarıVeSosyalAglar\obj\Debug\CizgeAlgoritmalarıVeSosyalAglar.pdb
