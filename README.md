@@ -18,7 +18,6 @@
   <img src="CizgeAlgoritmalarıVeSosyalAglar/Pictures/3.png" width="600" height="300"/>
   <img src="CizgeAlgoritmalarıVeSosyalAglar/Pictures/4.png" width="600" height="300"/>
   <img src="CizgeAlgoritmalarıVeSosyalAglar/Pictures/5.png" width="600" height="300"/>
-  <img src="CizgeAlgoritmalarıVeSosyalAglar/Pictures/6.png" width="600" height="300"/>
 
   
   
